@@ -8,7 +8,7 @@ Use Android Developer and import the project as an API 15 level project.
 * Can take full-resolution photo captures and upload to a remote webserver.
 
 ## Requirements
-* Crap old Android phone.
+* Crap old Android phone. Android 4 or lower.
 * Internet access.
 * Webserver with PHP or whatever.
 
